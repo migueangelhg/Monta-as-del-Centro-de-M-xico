@@ -1,0 +1,190 @@
+Sitio-25-29-0013,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,6,3,30,5
+2,P. pseudostrobus,13,4.5,33,0
+3,P. pseudostrobus,66,17,114,0
+4,P. pseudostrobus,16.5,13,104,3
+5,P. pseudostrobus,5.7,3,13,4
+6,P. pseudostrobus,14.5,10,10,3
+7,P. pseudostrobus,21.5,8,13,0
+8,P. pseudostrobus,7.8,3.2,24,0
+9,P. pseudostrobus,12.2,4,27,0
+10,P. pseudostrobus,2.5,1.9,38,5
+11,P. pseudostrobus,13.8,5,11,4
+12,P. pseudostrobus,10.1,3.6,66,4
+13,P. pseudostrobus,16.6,6.5,41,3
+Control-25-29-0013,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,22.6,7.5,NA,0
+2,P. pseudostrobus,14.7,5,NA,1
+3,P. pseudostrobus,11.4,2.5,NA,0
+4,P. pseudostrobus,9.8,3.5,NA,3
+5,P. pseudostrobus,5.2,1.8,NA,4
+6,P. pseudostrobus,12.6,6.2,NA,0
+7,P. pseudostrobus,14.4,8,NA,2
+8,P. pseudostrobus,21,9.5,NA,1
+9,P. pseudostrobus,8.2,4.5,NA,0
+10,P. pseudostrobus,10.7,6,NA,0
+11,P. pseudostrobus,15.6,6.5,NA,0
+12,P. pseudostrobus,7.2,3.5,NA,0
+13,P. pseudostrobus,25.6,13,NA,0
+14,P. pseudostrobus,46.3,18,NA,0
+15,P. pseudostrobus,12.8,5,NA,0
+16,P. pseudostrobus,22.4,11.5,NA,0
+17,P. pseudostrobus,26.4,15,NA,2
+18,P. pseudostrobus,36.8,16,NA,0
+Sitio-25-29-0050,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,14.7,11,200,0
+2,P. pseudostrobus,37.5,17,410,3
+3,P. pseudostrobus,5.2,1.7,110,5
+4,P. pseudostrobus,4.8,1.6,120,4
+5,P. pseudostrobus,27.5,14,290,1
+6,P. pseudostrobus,10,9,170,0
+7,P. pseudostrobus,32.9,16,270,3
+8,P. pseudostrobus,32.4,16,300,1
+9,P. pseudostrobus,40.4,21,350,0
+10,P. pseudostrobus,40.1,20,250,3
+11,P. pseudostrobus,31.4,14,250,5
+12,P. pseudostrobus,43.9,23,280,0
+13,P. pseudostrobus,36,19,230,0
+14,P. pseudostrobus,30.5,17.5,235,1
+15,P. pseudostrobus,33.7,21,210,1
+Control-25-29-0050,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,16.4,4.5,NA,0
+2,P. pseudostrobus,14.3,5,NA,0
+3,P. pseudostrobus,7.7,2.5,NA,0
+4,P. pseudostrobus,12.6,3.5,NA,0
+5,P. pseudostrobus,11.1,3,NA,3
+6,P. pseudostrobus,11.4,2.7,NA,0
+7,P. pseudostrobus,14.3,2.9,NA,0
+8,P. pseudostrobus,18.3,5.4,NA,0
+9,P. pseudostrobus,14.9,5.6,NA,0
+10,P. pseudostrobus,6.5,1,NA,4
+11,P. pseudostrobus,6.8,1.8,NA,5
+12,P. pseudostrobus,20.1,7.5,NA,0
+13,P. pseudostrobus,8.9,2.1,NA,0
+14,P. pseudostrobus,45.3,15.5,NA,0
+15,P. pseudostrobus,13.8,7,NA,0
+16,P. pseudostrobus,15.1,4.5,NA,0
+Sitio- 25-29-0032,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,57.1,31,67,0
+2,A.religiosa,14.2,15,120,4
+3,A.religiosa,25.1,17,22,0
+4,A.religiosa,23.8,21,67,5
+5,A.religiosa,25.4,22,112,4
+6,A.religiosa,29.5,26,87,3
+7,A.religiosa,25.3,28,47,0
+8,A.religiosa,6.9,7.5,105,0
+9,P. pseudostrobus,9.8,10.5,72,4
+10,P. pseudostrobus,8.4,9,53,4
+11,P. montezumae,16.5,14.5,132,4
+12,P. montezumae,7.8,7,141,5
+13,A.religiosa,11,12,119,2
+14,P. montezumae,57.5,22,300,1
+15,A.religiosa,9.5,11,117,0
+16,P. montezumae,55.5,35,23,0
+17,A.religiosa,35.8,30,323,1
+18,P. montezumae,55.8,38,278,0
+19,P. montezumae,53.4,36,400,0
+Control- 25-29-0032,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,66.3,35,NA,3
+2,P. pseudostrobus,17,14,NA,0
+3,P. pseudostrobus,11.4,11,NA,5
+4,A.religiosa,26.5,24,NA,1
+5,P. pseudostrobus,68.2,38,NA,1
+6,P. pseudostrobus,66.4,34,NA,0
+7,P. pseudostrobus,54.5,30,NA,3
+8,P. pseudostrobus,11.5,14,NA,4
+9,P. pseudostrobus,11.3,13,NA,5
+10,P. pseudostrobus,19,15,NA,3
+11,A.religiosa,11.5,13,NA,4
+12,P. pseudostrobus,12.6,15,NA,1
+13,P. pseudostrobus,21.5,24,NA,0
+Sitio-20-29-0115,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,36.2,13.5,102,3
+2,P. montezumae,49.8,17,22,0
+3,P. montezumae,41.2,15.5,121,2
+4,P. montezumae,46,21,22,1
+5,P. montezumae,17.6,14,204,0
+6,P. montezumae,28.7,16,42,0
+7,P. montezumae,31.4,17,196,2
+8,P. montezumae,26.5,16,300,1
+9,P. montezumae,45.2,25,54,1
+10,P. montezumae,10.8,4,57,0
+Control-20-29-0115,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,30.7,10.5,NA,0
+2,P. montezumae,28.5,10.5,NA,2
+3,P. montezumae,26.6,10,NA,0
+4,P. montezumae,49.3,25,NA,4
+5,P. montezumae,54.8,27,NA,4
+6,P. montezumae,18.2,11,NA,3
+7,P. montezumae,27,14,NA,3
+8,P. montezumae,39.3,28,NA,4
+9,P. montezumae,30.5,26,NA,0
+10,P. montezumae,49.7,30,NA,0
+11,P. montezumae,47.9,29,NA,0
+12,P. montezumae,26.6,15,NA,0
+13,P. montezumae,35.8,21,NA,0
+14,P. montezumae,15.8,12,NA,0
+15,P. montezumae,31.9,28,NA,0
+Sitio-20-29-0095,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. pseudostrobus,42.7,23,268,1
+2,P. pseudostrobus,51.9,24.5,161,0
+3,P. pseudostrobus,37.5,22.5,1800,0
+4,P. pseudostrobus,36.4,22,220,1
+5,P. pseudostrobus,39.6,21,198,0
+6,P. pseudostrobus,36.1,20,151,0
+7,P. pseudostrobus,36.6,22,162,0
+8,P. pseudostrobus,44,23,190,0
+9,P. pseudostrobus,35.4,21,215,3
+10,P. pseudostrobus,34,20,220,2
+Control-20-29-0095,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,27.7,16,NA,2
+2,P. pseudostrobus,7.2,4.5,NA,0
+3,P. montezumae,3.5,2.5,NA,0
+4,P. montezumae,4.5,3.5,NA,1
+5,P. montezumae,3.8,2.5,NA,1
+6,P. montezumae,3.9,1.98,NA,0
+7,P. montezumae,3.4,1.95,NA,0
+8,P. montezumae,30.9,18.5,NA,1
+9,P. montezumae,9.7,6.5,NA,0
+10,P. pseudostrobus,22.4,16,NA,0
+11,P. montezumae,99.3,50,NA,0
+12,P. montezumae,60.5,39,NA,0
+Sitio-20-29-0076,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,25.8,22,270,1
+2,P. montezumae,46,30.5,300,0
+3,P. montezumae,48.4,32,500,0
+4,P. montezumae,71.4,36,1000,0
+5,P. montezumae,18.9,15,300,2
+6,P. montezumae,22.3,21,250,4
+7,P. montezumae,43.7,28.5,280,0
+8,P. montezumae,38.7,27,270,0
+9,P. montezumae,44.5,31,350,0
+10,P. montezumae,"16,7",15,400,2
+Control-20-29-0076,,,,,
+Ind,Especie,DAP (cm),Altura (m),Altura de la llama (cm),Severidad
+1,P. montezumae,7.1,3.5,NA,0
+2,P. montezumae,17.5,10,NA,0
+3,P. montezumae,20.7,12,NA,0
+4,P. montezumae,17.9,13.5,NA,2
+5,P. montezumae,13.2,12,NA,2
+6,P. montezumae,12.9,13,NA,5
+7,P. montezumae,9.2,5,NA,0
+8,P. montezumae,27.2,14.5,NA,0
+9,P. montezumae,16.6,12.5,NA,0
+10,P. montezumae,26,16,NA,0
+11,P. montezumae,13.1,12,NA,0
+12,P. montezumae,9.5,8,NA,2
+13,P. montezumae,19.5,15,NA,0
+14,P. montezumae,3.2,1.8,NA,1
+15,P. montezumae,85.4,39,NA,0
