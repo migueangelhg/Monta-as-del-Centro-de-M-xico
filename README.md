@@ -2,7 +2,7 @@
 
 Este repositorio contiene las rutinas de código, datos base y resultados finales para replicar el análisis espacial de incendios forestales y la caracterización de sitios de muestreo en la región de las Montañas del Centro de México.
 
-## 📋 Contenido del Repositorio
+## Contenido del Repositorio
 
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
@@ -14,14 +14,14 @@ Este repositorio contiene las rutinas de código, datos base y resultados finale
 | `gadm/` | Capas geoespaciales base (límites administrativos de México). |
 | `figuras/` | Resultados finales en formato de imagen (correlaciones, pruebas estadísticas, etc.). |
 
-## 🔥 Polígonos de Incendios
+## Polígonos de Incendios
 
 Los polígonos de incendios utilizados en el análisis se obtuvieron de fuentes oficiales (CONAFOR/IDEFOR) y fueron procesados mediante los scripts incluidos. Para visualizar la distribución espacial de los incendios, consulta el **Mapa Interactivo**.
 
 - **Visualización estática:** Puedes encontrar una vista previa de los polígonos en la carpeta `figuras/` (si se ha generado alguna imagen al respecto).
 - **Datos fuente:** Los archivos de polígonos (shapefiles) no se incluyen directamente en el repositorio debido a su tamaño, pero se detalla en el script `AnálisisdedatosMCM.R` la ruta o el método de descarga para replicar el proceso.
 
-## 📍 Localización de Sitios de Muestreo
+## Localización de Sitios de Muestreo
 
 La ubicación exacta de los sitios de muestreo y los controles se encuentra en el archivo:
 
