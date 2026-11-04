@@ -32,7 +32,7 @@ Este archivo contiene las columnas de longitud, latitud y la categoría (sitio o
 1.  **Mapa Interactivo (HTML):** Abre el archivo `mapa_interactivo.html` (generado con `BorradorMapaInteractivo.R`) en cualquier navegador. Allí podrás hacer zoom, clicar sobre los puntos y ver los polígonos de incendios superpuestos.
 2.  **Vista previa en el README:** A continuación se muestra un ejemplo de cómo se verían los sitios (puedes insertar una captura de pantalla aquí si lo deseas).
 
-## 📊 Resultados Finales
+##  Resultados Finales
 
 Todos los productos gráficos del análisis (correlaciones, pruebas de Mann-Whitney, modelos de regresión logística binaria, tablas de contingencia, etc.) se encuentran en la carpeta **`figuras/`**. 
 
