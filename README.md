@@ -63,6 +63,10 @@ En cada sitio se aplicó un **transecto dirigido de 50 × 2 m** en la zona de ma
 
 Con fines de replicabilidad, las bases de datos y el código se encuentran depositados en este repositorio de GitHub. Los polígonos de incendio (2020–2025) se obtuvieron de la **Infraestructura de Datos Espaciales Forestales (IDEFOR)** (https://idefor.cnf.gob.mx/mviewer/incendios). Para cada polígono se calcularon centroides y se delimitaron controles; posteriormente se filtraron considerando los efectos a corto y mediano plazo del estrés post‑incendio.
 
+**[Abrir mapa interactivo de incendios 2020–2025 y sitios de muestreo](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/malinche_incendios_2020_2025.html)**
+
+El mapa permite activar/desactivar capas por año, hacer zoom sobre los polígonos de incendio, consultar sus atributos (clave, municipio, causa, superficie) y visualizar la ubicación de los sitios de muestreo y controles. Capas base: satélite, topográfico y OpenStreetMap.
+
 Los análisis se realizaron en **R** (R Core Team, 2026), aplicando:
 
 - Prueba de independencia **chi‑cuadrada**
