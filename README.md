@@ -30,19 +30,31 @@ La ubicación exacta de los sitios de muestreo y los controles se encuentra en e
 Este archivo contiene las columnas de longitud, latitud y la categoría (sitio o control) para cada punto. Puedes visualizar estos puntos de dos maneras:
 
 1.  **Mapa Interactivo (HTML):** Abre el archivo `mapa_interactivo.html` (generado con `BorradorMapaInteractivo.R`) en cualquier navegador. Allí podrás hacer zoom, clicar sobre los puntos y ver los polígonos de incendios superpuestos.
-2.  **Vista previa en el README:** A continuación se muestra un ejemplo de cómo se verían los sitios (puedes insertar una captura de pantalla aquí si lo deseas).
+2.  **Vista previa en el README:** A continuación se muestra un ejemplo de cómo se verían los sitios.
 
-##  Resultados Finales
+![Sitios de muestreo](figuras/Captura%20de%20pantalla%202026-10-08%20022637.png)
+
+## Resultados Finales
 
 Todos los productos gráficos del análisis (correlaciones, pruebas de Mann-Whitney, modelos de regresión logística binaria, tablas de contingencia, etc.) se encuentran en la carpeta **`figuras/`**. 
 
 Algunos de los archivos destacados son:
+
 - `CorSpearman.png`: Matriz de correlación de Spearman.
 - `ManWhitney.png`: Resultados de la prueba U de Mann-Whitney.
 - `ModRegLogBinFinal.png`: Ajuste del modelo de regresión logística binaria.
 - `TabladeContigenciaMejorada.png`: Tabla de contingencia mejorada.
 
-Puedes insertar estas imágenes directamente en este README usando la sintaxis de Markdown:
+A continuación se muestran las imágenes:
 
-```markdown
+### Correlación de Spearman
 ![Correlación Spearman](figuras/CorSpearman.png)
+
+### Prueba U de Mann-Whitney
+![Mann-Whitney](figuras/ManWhitney.png)
+
+### Regresión logística binaria
+![Regresión logística](figuras/ModRegLogBinFinal.png)
+
+### Tabla de contingencia
+![Tabla de contingencia](figuras/TabladeContigenciaMejorada.png)
