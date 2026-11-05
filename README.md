@@ -134,7 +134,7 @@ Al menos para una parte de la familia Pinaceae, los incendios en La Malinche act
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
@@ -149,7 +149,7 @@ Al menos para una parte de la familia Pinaceae, los incendios en La Malinche act
 
 ---
 
-## 🚀 Reproducibilidad
+##  Reproducibilidad
 
 1. Clona el repositorio:
 
