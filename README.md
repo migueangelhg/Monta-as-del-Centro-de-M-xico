@@ -4,7 +4,6 @@
 
 ¹ Laboratorio Nacional de Análisis y Síntesis Ecológica, ENES Unidad Morelia, UNAM · ² Posgrado en Ciencias Biológicas, UNAM · ³ Jardín Botánico, Instituto de Biología, Sede Tlaxcala, UNAM · ⁴ Instituto de Investigaciones en Ecosistemas y Sustentabilidad, UNAM · ⁵ Facultad de Estudios Superiores Iztacala, UNAM
 
-\* Autores de correspondencia: jorge.cortes@ib.unam.mx · anavarrete@cieco.unam.mx
 
 ---
 
