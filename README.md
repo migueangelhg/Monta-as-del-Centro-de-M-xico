@@ -5,7 +5,7 @@
 ¹ Laboratorio Nacional de Análisis y Síntesis Ecológica, ENES Unidad Morelia, UNAM · ² Posgrado en Ciencias Biológicas, UNAM · ³ Jardín Botánico, Instituto de Biología, Sede Tlaxcala, UNAM · ⁴ Instituto de Investigaciones en Ecosistemas y Sustentabilidad, UNAM · ⁵ Facultad de Estudios Superiores Iztacala, UNAM
 
 
-[**Abrir página del mapa interactivo con ventana**](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/)
+[**Abrir el sitio de GitHub pages **](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/)
 
 
 ---
@@ -149,11 +149,14 @@ Al menos para una parte de la familia Pinaceae, los incendios en La Malinche act
 | `AnálisisdedatosMCM.R` | Script principal de análisis estadístico y espacial. |
 | `DwnCapasanualesMapaInteractivo.R` | Descarga de capas de incendios (IDEFOR/WFS) y generación del mapa interactivo. |
 | `BorradorMapaInteractivo.R` | Borrador del mapa interactivo (HTML) de polígonos y sitios. |
+| `MapaInteractivoFinal.R` |Mapa interactivo (HTML) con polígonos de incendio, sitios control y de muestreo. |
 | `TablasdeResultados.R` | Rutinas para la generación de tablas resumen. |
 | `DatosEMCM.csv` | Datos crudos del estudio (166 árboles). |
 | `sitios_y_controles_coordenadas.csv` | Coordenadas geográficas de sitios de muestreo y controles. |
 | `gadm/` | Capas geoespaciales base (límites administrativos de México). |
 | `figuras/` | Resultados finales en formato de imagen (Figuras 1, 3, 4, 5 y 6 del manuscrito). |
+| `sitioGithubpages/` | (https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/)
+ |
 
 ---
 
