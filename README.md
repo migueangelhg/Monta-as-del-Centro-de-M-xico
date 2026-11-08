@@ -47,7 +47,7 @@ El trabajo se realizó en el **Área Natural Protegida La Malinche**, ubicada en
 
 ![Figura 1. Área de estudio y puntos de muestreo](figuras/Captura%20de%20pantalla%202026-10-08%20022637.png)
 
-*Figura 1.* Área de estudio y puntos de muestreo localizados en el ANP La Malinche (Tlaxcala, México). Los puntos rojos representan sitios de muestreo con incendio previo; en azul, los controles. Se distingue entre los años 2020 y 2025 [**Abrir mapa en pantalla completa**](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/malinche_incendios_2020_2025.html).
+*Figura 1.* Área de estudio y puntos de muestreo localizados en el ANP La Malinche (Tlaxcala, México). Los puntos rojos representan sitios de muestreo con incendio previo; en azul, los controles. Se distingue entre los años 2020 y 2025 [**Abrir mapa interactivo en pantalla completa**](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/malinche_incendios_2020_2025.html).
 
 ### 2.2 Muestreo
 
