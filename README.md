@@ -47,7 +47,7 @@ El trabajo se realizó en el **Área Natural Protegida La Malinche**, ubicada en
 
 ![Figura 1. Área de estudio y puntos de muestreo](figuras/Captura%20de%20pantalla%202026-10-08%20022637.png)
 
-*Figura 1.* Área de estudio y puntos de muestreo localizados en el ANP La Malinche (Tlaxcala, México). Los puntos rojos representan sitios de muestreo con incendio previo; en azul, los controles. Se distingue entre los años 2020 y 2025.
+*Figura 1.* Área de estudio y puntos de muestreo localizados en el ANP La Malinche (Tlaxcala, México). Los puntos rojos representan sitios de muestreo con incendio previo; en azul, los controles. Se distingue entre los años 2020 y 2025 [**Abrir mapa en pantalla completa**](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/malinche_incendios_2020_2025.html).
 
 ### 2.2 Muestreo
 
@@ -64,12 +64,6 @@ En cada sitio se aplicó un **transecto dirigido de 50 × 2 m** en la zona de ma
 ### 2.3 Procesamiento de datos
 
 Con fines de replicabilidad, las bases de datos y el código se encuentran depositados en este repositorio de GitHub. Los polígonos de incendio (2020–2025) se obtuvieron de la **Infraestructura de Datos Espaciales Forestales (IDEFOR)** (https://idefor.cnf.gob.mx/mviewer/incendios). Para cada polígono se calcularon centroides y se delimitaron controles; posteriormente se filtraron considerando los efectos a corto y mediano plazo del estrés post‑incendio.
-
-[**Abrir mapa en pantalla completa**](https://migueangelhg.github.io/Monta-as-del-Centro-de-M-xico/malinche_incendios_2020_2025.html)
-
-El mapa permite activar/desactivar capas por año, hacer zoom sobre los polígonos de incendio, consultar sus atributos (clave, municipio, causa, superficie) y visualizar la ubicación de los sitios de muestreo y controles. Capas base: satélite y topográfico de Esri.
-
-El mapa permite activar/desactivar capas por año, hacer zoom sobre los polígonos de incendio, consultar sus atributos (clave, municipio, causa, superficie) y visualizar la ubicación de los sitios de muestreo y controles. Capas base: satélite, topográfico y OpenStreetMap.
 
 Los análisis se realizaron en **R** (R Core Team, 2026), aplicando:
 
